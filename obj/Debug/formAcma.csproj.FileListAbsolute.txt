@@ -1,0 +1,11 @@
+C:\Users\yeni\Desktop\aForge\formAcma\bin\Debug\formAcma.exe.config
+C:\Users\yeni\Desktop\aForge\formAcma\bin\Debug\formAcma.exe
+C:\Users\yeni\Desktop\aForge\formAcma\bin\Debug\formAcma.pdb
+C:\Users\yeni\Desktop\aForge\formAcma\obj\Debug\formAcma.Form1.resources
+C:\Users\yeni\Desktop\aForge\formAcma\obj\Debug\formAcma.Properties.Resources.resources
+C:\Users\yeni\Desktop\aForge\formAcma\obj\Debug\formAcma.csproj.GenerateResource.cache
+C:\Users\yeni\Desktop\aForge\formAcma\obj\Debug\formAcma.csproj.CoreCompileInputs.cache
+C:\Users\yeni\Desktop\aForge\formAcma\obj\Debug\formAcma.exe
+C:\Users\yeni\Desktop\aForge\formAcma\obj\Debug\formAcma.pdb
+C:\Users\yeni\Desktop\aForge\formAcma\obj\Debug\formAcma.yeniEkle.resources
+C:\Users\yeni\Desktop\aForge\formAcma\obj\Debug\formAcma.csprojAssemblyReference.cache
